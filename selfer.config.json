@@ -1,0 +1,43 @@
+{
+    "telegram": {
+        "token": "8207021134:AAG0QbtgUG0KWd6o240KFwMAcGvH6Hk519U",
+        "allowedChatIds": [ 1981194373 ]
+    },
+    "ollama": {
+        "host": "http://localhost:11434",
+        "model": "qwen2.5-coder:14b",
+        "timeout": 240000
+    },
+    "shell": {
+        "allowlist": [
+            "npm",
+            "npx",
+            "node",
+            "git",
+            "tsc",
+            "python",
+            "pip",
+            "pytest",
+            "cargo",
+            "go",
+            "make"
+        ],
+        "timeout": 60000,
+        "poolSize": 3
+    },
+    "safety": {
+        "maxDiffLines": 500,
+        "maxDeletePercent": 50,
+        "requireApprovalForPush": true,
+        "requireApprovalForDelete": true,
+        "protectedBranches": [
+            "main",
+            "master",
+            "production"
+        ]
+    },
+    "agent": {
+        "maxRetries": 2,
+        "contextTokenBudget": 4096
+    }
+}

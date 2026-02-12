@@ -1,0 +1,110 @@
+{
+  "root": "C:\\Users\\chint\\Desktop\\fs-classes",
+  "generatedAt": "2026-02-12T07:06:40.437Z",
+  "techStack": [],
+  "directories": [
+    {
+      "path": "A6-notes",
+      "purpose": "Project directory",
+      "fileCount": 18
+    },
+    {
+      "path": "backend",
+      "purpose": "Project directory",
+      "fileCount": 6
+    },
+    {
+      "path": "c6-py-classes",
+      "purpose": "Project directory",
+      "fileCount": 5
+    },
+    {
+      "path": "frontend-class",
+      "purpose": "Project directory",
+      "fileCount": 17
+    },
+    {
+      "path": "A6-notes/backend",
+      "purpose": "Project directory",
+      "fileCount": 5
+    },
+    {
+      "path": "A6-notes/frontend",
+      "purpose": "Project directory",
+      "fileCount": 13
+    },
+    {
+      "path": "frontend-class/src",
+      "purpose": "Source code",
+      "fileCount": 11
+    },
+    {
+      "path": "backend/config",
+      "purpose": "Configuration",
+      "fileCount": 1
+    },
+    {
+      "path": "backend/controllers",
+      "purpose": "Project directory",
+      "fileCount": 0
+    },
+    {
+      "path": "backend/middleware",
+      "purpose": "Middleware",
+      "fileCount": 1
+    },
+    {
+      "path": "backend/models",
+      "purpose": "Data models",
+      "fileCount": 1
+    },
+    {
+      "path": "backend/routes",
+      "purpose": "Routes",
+      "fileCount": 0
+    },
+    {
+      "path": "A6-notes/frontend/src",
+      "purpose": "Source code",
+      "fileCount": 7
+    },
+    {
+      "path": "frontend-class/src/components",
+      "purpose": "UI components",
+      "fileCount": 7
+    }
+  ],
+  "keyFiles": [
+    "backend/package.json",
+    "frontend-class/eslint.config.js",
+    "frontend-class/package.json",
+    "frontend-class/vite.config.js",
+    "A6-notes/backend/package.json",
+    "A6-notes/frontend/eslint.config.js",
+    "A6-notes/frontend/package.json",
+    "A6-notes/frontend/vite.config.js"
+  ],
+  "configFiles": [
+    "backend/package.json",
+    "frontend-class/eslint.config.js",
+    "frontend-class/package.json",
+    "frontend-class/vite.config.js",
+    "A6-notes/backend/package.json",
+    "A6-notes/frontend/eslint.config.js",
+    "A6-notes/frontend/package.json",
+    "A6-notes/frontend/vite.config.js"
+  ],
+  "conventions": [],
+  "stats": {
+    "totalFiles": 52,
+    "totalDirs": 14,
+    "languages": {
+      "SQL": 4,
+      "JSON": 10,
+      "JavaScript": 25,
+      "HTML": 2,
+      "Markdown": 2,
+      "CSS": 4
+    }
+  }
+}
